@@ -28,3 +28,5 @@
 
 ### References
 Check `docs/References.md` for the full list of used papers and resources.
+
+#### Academic context: This project was developed as part of the CSCY 413 Special Topics in Cybersecurity course requirements at BUiD.
