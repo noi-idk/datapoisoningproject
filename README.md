@@ -6,10 +6,19 @@ This project focuses on addressing label-flipping attacks, which cause models to
 PoisonGuard will identify potentially suspicious training samples and remove them before retraining the models, using the CICIoMT2024 dataset by comparing model performance under set conditions (clean - poisoned - defended).
 
 ### Team Memmbers & Roles
-|Name (SID) | Role 
-|---------------| ------------
-| Haneen Mahmoud (--) |
-| Mai Mudathir (--) |
+This project was developed collaboratively by two team members, with each member contributing to different sections of the report and project planning.
+ ___________________________________________________________________________________________________________________________
+|       Name (SID)        | Roles and Responsibilities                                                                      |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+| Haneen Gouda (23000737) | Responsible for developing the methodology section, preparing the team plan and project         |
+|                         | timeline, and writing the conclusion.                                                           |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+| Mai Mudathir (23000805) | Responsible for preparing the introduction and literature review, including the background,     |
+|                         | problem statement, motivation, project scope, and analysis of related research.                 |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+|       Both Members      | Collaborated on project discussions, reviewing the report, interpreting research findings, and  |
+|                         | maintaining the GitHub repository.                                                              |
+|_________________________|_________________________________________________________________________________________________|
 
 ### Project Folders Structures
 ```
