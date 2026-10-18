@@ -13,7 +13,17 @@ PoisonGuard will identify potentially suspicious training samples and remove the
 
 ### Project Folders Structures
 ```
-----
+datapoisoningproject/
+├── data/
+│   └── README.md
+├── docs/
+│   └── PoisonGuard_Methodology_Workflow_Diagram.png
+│   └── PoisonGuard_Proposal_Report.pdf
+│   └── README.md
+│   └── References.md
+├── src/
+│   └── README.md
+└── README.md
 ```
 
 ### Dataset
