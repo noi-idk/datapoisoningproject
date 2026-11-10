@@ -1,7 +1,7 @@
 # PoisonGuard: ML-based Data Poisoning Defense for IDS Project
 
 ### Abstract/Overview:
-IoMT (Internet of Medical Things) networks rely on ML-IDS (Machine Learning - based Intrusion Detection Systems) to detect cyberattacks, but their performance can be weakened if the main data is manipulated through data poisoning attacks which trageting the training labels.
+IoMT (Internet of Medical Things) networks rely on ML-IDS (Machine Learning - based Intrusion Detection Systems) to detect cyberattacks, but their performance can be weakened if the main data is manipulated through data poisoning attacks that target the training labels.
 This project focuses on addressing label-flipping attacks, which cause models to learn the wrong patterns and misclassify network traffic.
 PoisonGuard will identify potentially suspicious training samples and remove them before retraining the models, using the CICIoMT2024 dataset by comparing model performance under set conditions (clean - poisoned - defended).
 
@@ -24,6 +24,8 @@ datapoisoningproject/
 │   └── PoisonGuard_Proposal_Report.pdf
 │   └── README.md
 │   └── References.md
+├── results/
+│   └── graphs
 ├── src/
 │   └── README.md
 └── README.md
