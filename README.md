@@ -35,10 +35,14 @@ datapoisoningproject/
 ### Dataset
 Simple explanation about the dataset used: Raw data is *not included* in this repository due to size and licensing. See `data/README.md` for download instructions.
 
-### Setup Instructions
-```
-----
-```
+# Setup instructions
+
+1. Run the code in **Google Colab**. The experiment notebook is `PoisonGuard_Defense.ipynb`.
+2. Use the **CICIoMT2024** dataset files in **Parquet format**. The Parquet files used in this project are uploaded in this repository.
+3. Upload the Parquet files to Colab (or mount Google Drive) and point the notebook to their location.
+4. The full training set is very large, so the experiment uses a **stratified random sample of 300,000 training records**. Every model is trained on this sample and tested on the full, untouched test set.
+
+The dashboard (`app.py`) already contains the results from the notebook, so it does not need the dataset files.
 
 ### Project Statues
 - ✅ Deliverable 1: Introduction, Literature Review & Methodology Report
