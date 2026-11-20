@@ -10,7 +10,7 @@ This project was developed collaboratively by two team members, with each member
  ___________________________________________________________________________________________________________________________
 |       Name (SID)        | Roles and Responsibilities                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
-| Haneen Gouda (23000737) | **Deliverable 1:** Responsible for developing the methodology section, preparing the team plan and project timeline, and writing the conclusion. **Deliverable 2:** Framework design, model implementation, results analysis, implementing the GUI, and report writing.
+| Haneen Gouda (23000737) | **Deliverable 1:** Responsible for developing the methodology section, preparing the team plan and project timeline, and writing the conclusion.                                  **Deliverable 2:** Framework design, model implementation, results analysis, implementing the GUI, and report writing.
 | Mai Mudathir (23000805) | **Deliverable 1:** Responsible for preparing the introduction and literature review, including the background, problem statement, motivation, project scope, and analysis of related research. **Deliverable 2:** Literature review, dataset preparation, and report writing.
 |       Both Members      | Collaborated on project discussions, reviewing the report, interpreting research findings, and maintaining the GitHub repository.
 
