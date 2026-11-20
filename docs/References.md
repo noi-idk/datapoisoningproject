@@ -2,7 +2,7 @@
 
 [2]	Venkatesan, S., Sikka, H., Izmailov, R., Chadha, R., Oprea, A., & de Lucia, M. J. (2021). Poisoning attacks and data sanitization mitigations for machine learning models in network intrusion detection systems. MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM), 874–879. https://doi.org/10.1109/milcom52596.2021.9652916 
 
-[3]	Cawthra, J., Grayson, N., Pulivarti, R., Hodges, B., Kuruvilla, J., Littlefield, K., ... & Zheng, K. (2022). Securing telehealth remote patient monitoring ecosystem. NIST Special Publication, 30B. https://www.nccoe.nist.gov/sites/default/files/2022-02/rpm-nist-sp1800-30b-final.pdf 
+[3]	Cawthra, J., Grayson, N., Pulivarti, R., Hodges, B., Kuruvilla, J., Littlefield, K., ... & Zheng, K. (2022). Securing telehealth remote patient monitoring ecosystem. NIST Special Publication 30B. https://www.nccoe.nist.gov/sites/default/files/2022-02/rpm-nist-sp1800-30b-final.pdf 
 
 [4]	Jaleel, A., Mahmood, T., Hassan, M. A., Bano, G., & Khurshid, S. K. (2020). Towards Medical Data Interoperability Through Collaboration of Healthcare Devices. IEEE Access, 8, 132302–132319. https://doi.org/10.1109/access.2020.3009783 
 
@@ -27,3 +27,7 @@
 [14]	Lai, Y., Lin, J., Lin, Y., Hwang, R., Lin, P., Wu, H., & Chen, C. (2023). Two-phase Defense Against Poisoning Attacks on Federated Learning-based Intrusion Detection. Computers & Security, 129, 103205. https://doi.org/10.1016/j.cose.2023.103205
 
 [15]	Canadian Institute for Cybersecurity. (n.d.). CIC IoMT dataset 2024: Attack vectors in healthcare devices—A multi-protocol dataset for assessing IoMT device security. University of New Brunswick. https://www.unb.ca/cic/datasets/iomt-dataset-2024.html 
+
+[16] L. Lavaur, Y. Busnel, and F. Autrel, “Investigating the Impact of Label-Flipping Attacks Against Federated Learning for Collaborative Intrusion Detection,” Computers & Security, p. 104462, Apr. 2025, doi: http://10.1016/j.cose.2025.104462 
+
+[17] R. Taheri, R. Javidan, M. Shojafar, Z. Pooranian, A. Miri, and M. Conti, “On Defending Against Label Flipping Attacks on Malware Detection Systems,” Neural Computing and Applications, vol. 32, no. 18, pp. 14781–14800, July 2020, doi: https://doi.org/10.1007/s00521-020-04831-9 
