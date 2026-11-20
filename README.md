@@ -22,6 +22,7 @@ datapoisoningproject/
 ├── docs/
 │   └── PoisonGuard_Methodology_Workflow_Diagram.png
 │   └── PoisonGuard_Proposal_Report.pdf
+│   └── PoisonGuard_Final_Report.pdf
 │   └── README.md
 │   └── References.md
 ├── results/
@@ -41,7 +42,7 @@ Simple explanation about the dataset used: Raw data is *not included* in this re
 
 ### Project Statues
 - ✅ Deliverable 1: Introduction, Literature Review & Methodology Report
-- ⏳ Deliverable 2: Final Implementation, Report & Presentation
+- ✅ Deliverable 2: Final Implementation, Report & Presentation
 
 ### References
 Check `docs/References.md` for the full list of used papers and resources.
