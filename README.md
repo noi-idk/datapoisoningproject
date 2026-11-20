@@ -10,8 +10,8 @@ This project was developed collaboratively by two team members, with each member
  ___________________________________________________________________________________________________________________________
 |       Name (SID)        | Roles and Responsibilities                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
-| Haneen Gouda (23000737) | Responsible for developing the methodology section, preparing the team plan and project timeline, and writing the conclusion.
-| Mai Mudathir (23000805) | Responsible for preparing the introduction and literature review, including the background, problem statement, motivation, project scope, and analysis of related research.
+| Haneen Gouda (23000737) | Deliverable 1: Responsible for developing the methodology section, preparing the team plan and project timeline, and writing the conclusion. Deliverable 2: Framework design, model implementation, results analysis, implementing the GUI, and report writing.
+| Mai Mudathir (23000805) | Deliverable 1: Responsible for preparing the introduction and literature review, including the background, problem statement, motivation, project scope, and analysis of related research. Deliverable 2: Literature review, dataset preparation, and report writing.
 |       Both Members      | Collaborated on project discussions, reviewing the report, interpreting research findings, and maintaining the GitHub repository.
 
 ### Project Folders Structures
@@ -28,6 +28,9 @@ datapoisoningproject/
 ├── results/
 │   └── graphs
 ├── src/
+|   └── Haneen_defense + GUI.ipynb
+|   └── Mai_baseline_and_attack.ipynb
+|   └── PoisonGuard ( Complete Code + GUI )
 │   └── README.md
 └── README.md
 ```
@@ -37,8 +40,8 @@ Simple explanation about the dataset used: Raw data is *not included* in this re
 
 ### Setup instructions
 
-1. Run the code in **Google Colab**. The experiment notebook is `PoisonGuard_Defense.ipynb`.
-2. Use the **CICIoMT2024** dataset files in **Parquet format**. The Parquet files used in this project are uploaded in this repository.
+1. Run the code in **Google Colab**. The experiment notebook is `PoisonGuard ( Complete Code + GUI ).ipynb`.
+2. Use the **CICIoMT2024** dataset files in **Parquet format**.
 3. Upload the Parquet files to Colab (or mount Google Drive) and point the notebook to their location.
 4. The full training set is very large, so the experiment uses a **stratified random sample of 300,000 training records**. Every model is trained on this sample and tested on the full, untouched test set.
 
